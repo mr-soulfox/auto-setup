@@ -1,0 +1,10 @@
+Include
+Lib
+pyvenv.cfg
+Scripts
+.mypy_cache
+.vscode
+__pycache__
+dist
+build
+*.backup
